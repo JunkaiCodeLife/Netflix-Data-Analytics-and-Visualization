@@ -2,14 +2,14 @@
 
 The objective is to boost Netflix subscription rates while reducing market or content costs. By analyzing the importance of hit shows, competition, customers, film and television content, and the characteristics of film and television content, we can summarize the corresponding characteristics of each of them so as to formulate more advanced strategies
 
-Feel Free to download "Netflix Data Analytics and Visualization.twbx" to see the demo of the work
+## Feel Free to download "Netflix Data Analytics and Visualization.twbx" to see the demo of the work
 
 
-Description of Dashboard in Tableau
+## Description of Dashboard in Tableau
 
 How to Increase Netflix Subscription by Consumer Side and Content Side
 
-First Tab: Why Netflix should focus on more hit shows?
+### First Tab: Why Netflix should focus on more hit shows?
 The introduction part uses the hit show Squid Game as the example to indicate that the how the
 hit show could bring huge profit to the streaming company. To emphasize this point, the first tab
 presents several graphs and words. The upper left graph shows the global popularity of Suqid
@@ -26,7 +26,7 @@ increases again. The hit show Squid Game plays an important role here. This indi
 hit shows are needed to deal with slowing subscription.
 
 
-Second Tab: Where is Netflix in the competition?
+### Second Tab: Where is Netflix in the competition?
 The competition part is important in the way that the marketing department and the content
 building department can understand the position of Netflix.
 The first chart shows selected over-the-top streaming services by wi-fi household penetration and
@@ -42,7 +42,7 @@ is 2 hours per day.
 Overall, the environment Netflix faced is competitive.
 
 
-Third Tab: What are our current subscribers like?
+### Third Tab: What are our current subscribers like?
 The age distribution bar chart was made for Netflix subscribers and the comparison of other
 platforms. I found the data from Statista Global Consumer Survey - Brand Report: Video on
 demand: Netflix in the United States. The bar chart was meant to emphasize on Netflix so that
@@ -55,7 +55,7 @@ In terms of geographic distribution, I used the data from comparitech and found 
 American and European countries are the main battlefields.
 
 
-Fourth Tab: What content do our subscribers like?
+### Fourth Tab: What content do our subscribers like?
 To understand what content Netflix needs to pour resources into, it is necessary to have a picture
 of what it provides and what attracts customers most. Thus, we make a comparison between the
 most frequent genres on Netflix and the most popular ones.
@@ -69,7 +69,7 @@ will be highlighted in the lower left chart. In that way, the disparity between 
 provides and what subscribers like are clearly demonstrated.
 
 
-Fifth Tab: What specific features should a show have?
+### Fifth Tab: What specific features should a show have?
 First, from the Netflix website, I found the top 10 TV shows and movies over 2021. By reading the
 critics of each 20 movies and TV shows on Rotten Tomato, I picked some repeat keywords in
 each critic and made a list of keywords of content and their appearance times to show the features
