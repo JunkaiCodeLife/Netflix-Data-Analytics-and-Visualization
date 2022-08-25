@@ -2,11 +2,12 @@
 
 The objective is to boost Netflix subscription rates while reducing market or content costs. By analyzing the importance of hit shows, competition, customers, film and television content, and the characteristics of film and television content, we can summarize the corresponding characteristics of each of them so as to formulate more advanced strategies
 
+Feel Free to download "Netflix Data Analytics and Visualization.twbx" to see the demo of the work
+
 
 Description of Dashboard in Tableau
 
 How to Increase Netflix Subscription by Consumer Side and Content Side
-
 
 First Tab: Why Netflix should focus on more hit shows?
 The introduction part uses the hit show Squid Game as the example to indicate that the how the
